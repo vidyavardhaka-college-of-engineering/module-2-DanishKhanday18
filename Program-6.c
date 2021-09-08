@@ -35,6 +35,5 @@ int main()
 }
 printf("Total number of even numbers and odd numbers in the array are %d and %d",evennum,oddnum  );//missing code
 //printf("Total number of odd numbers in the array : %d\n",   );//missing code
-
 return(0);    
 }
